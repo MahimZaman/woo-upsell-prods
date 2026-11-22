@@ -5,6 +5,7 @@
  * Description: Adds upsell products (including variations) as checkbox items on the product page. Checked items are added to cart with the main product.
  * Version: 1.1.0
  * Author: Mahim Zaman
+ * Plugin URI: https://condixia.com
  * Author URI: https://mahimzaman.com
  * Text Domain: wc-upsell-checkbox
  */
